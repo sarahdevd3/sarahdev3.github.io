@@ -10,6 +10,11 @@ global
   height: 80%;
 }
 
+img {
+  height: 100%;
+  weight: 100%;
+}
+
 html {
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
