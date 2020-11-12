@@ -6,6 +6,8 @@ global
 
 *, *::before, *::after {
   box-sizing: border-box;
+  width: 60%;
+  height= 60%;
 }
 
 img {
