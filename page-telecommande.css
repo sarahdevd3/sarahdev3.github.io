@@ -5,7 +5,7 @@ global
 */
 
 *, *::before, *::after {
-  box-sizing: border-box;
+  box-sizing: content-box;
 }
 
 img {
@@ -192,12 +192,12 @@ body {
 
   main > ul > li img {
     max-width: 100%;
-    height: auto;
+    height: 70%;
   }
 
   main > ul > li svg {
     width: 100%;
-    height: auto;
+    height: 70%;
   }
 
   footer {
